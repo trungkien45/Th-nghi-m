@@ -39,4 +39,3 @@ Rồi ông thở dài thườn thượt nhớ về ngày xưa ấy.
 Cô bé leo lên đùi bố, nhìn cái màn hình đen sì và nói:
 
 - Vậy mình không mua màn hình nữa? Bố kể cho con chuyện ngày xưa như mẹ hay kể cho con ấy.
-- 
