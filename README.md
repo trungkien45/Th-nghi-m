@@ -7,6 +7,7 @@ Các tài liệu trong dự án đặt ra những tình huống giả định đ
 ## Thí nghiệm hiện có
 
 - [Khi AI nắm giữ liều thuốc cuối cùng](AI_thuoc.md) — về AI thiết kế thuốc cá nhân hóa, niềm tin vào mô hình và giới hạn quyền quyết định của AI.
+- [HOMOTECH X-100](HOMOTECH.md) — một nền tảng máy móc tự hành đa chức năng, với những nhu cầu vận hành, vòng đời và năng lực thích nghi khiến khái niệm “máy móc” trở nên đáng suy ngẫm.
 
 ### UBI
 
