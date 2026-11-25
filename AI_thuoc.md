@@ -35,6 +35,8 @@ Một người mắc căn bệnh di truyền cực hiếm.
 - Đột biến gene của bệnh nhân gần như không xuất hiện ở người khác.
 - AI có thể thiết kế một loại thuốc chỉ dành cho người này.
 
+Trường hợp bé [Mila Makovec](https://www.nytimes.com/2019/10/09/health/mila-makovec-drug.html) là một ví dụ có thật về hướng điều trị cá nhân hóa. Tình huống trong thí nghiệm này đẩy ý tưởng ấy xa hơn: AI tự thiết kế thuốc riêng cho bệnh nhân trong khi không thể thử nghiệm trực tiếp trước khi điều trị.
+
 ### Phương án của AI
 
 Sau khi phân tích dữ liệu, AI đưa ra công thức thuốc riêng.
@@ -91,6 +93,8 @@ Nhân loại giao nhiệm vụ cho AI tìm ra phương pháp điều trị.
 AI quyết định thiết kế thuốc riêng cho từng cá thể.
 
 Mỗi người có một công thức khác nhau, dựa trên dữ liệu sinh học cá nhân.
+
+Có thể xem đây là câu chuyện điều trị cá nhân hóa như trường hợp Mila, nhưng được phóng đại lên quy mô hàng tỷ người.
 
 AI tuyên bố đã xây dựng mô hình toán học cho toàn bộ dân số và có thể dự đoán phản ứng của từng người. AI nhận thấy cần thiết kế thuốc cá nhân hóa cho từng người.
 
@@ -179,6 +183,8 @@ AI cho rằng đây là phương án có xác suất bảo tồn nhân loại ca
 **1. Tri thức**
 
 Con người có nhất thiết phải hiểu một thứ trước khi sử dụng nó không?
+
+Từ thời cổ đại, con người đã dùng dược liệu mà chưa hiểu tường tận cơ sở khoa học hay tác dụng cụ thể của chúng. Hình ảnh Thần Nông nếm bách thảo gợi nhắc rằng việc sử dụng những thứ chưa hiểu rõ không phải là điều hoàn toàn mới; câu hỏi là liệu tiền lệ ấy có đủ để biện minh cho quyết định trong tình huống này hay không.
 
 **2. Niềm tin**
 
